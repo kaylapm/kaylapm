@@ -17,4 +17,7 @@ Hi 👋 I’m Kayla,<br> a software engineering student interested in backend de
 ---
 [![](https://visitcount.itsvg.in/api?id=kaylapm&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+<img src="https://raw.githubusercontent.com/kaylapm/kaylapm/output/snake.svg" alt="Snake animation" />
+
+###
