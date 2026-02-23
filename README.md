@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋 I’m Kayla,<br> a software engineering student interested in backend development, web applications, and data processing.<br>Currently working with Node.js, Next.js (TypeScript), and SQL, and building systems related to billing and dashboards.
+Hi 👋 I’m Kayla,<br> a information system student interested in backend development, web applications, and data processing.<br>Currently working with Node.js, Next.js (TypeScript), and SQL, and building systems related to billing and dashboards.
 
 
 ## 🌐 Socials:
